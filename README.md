@@ -1,4 +1,8 @@
 # TitanicChat
+
+https://github.com/user-attachments/assets/eb6816e8-bae4-4e47-a6c0-486e7d6612f4
+
+
 TitanicChat - The best AI chatbot
 
 Welcome to TitanicChat
