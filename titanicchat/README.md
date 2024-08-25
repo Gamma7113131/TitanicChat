@@ -1,9 +1,16 @@
+# TitanicChat
+TitanicChat - The best AI chatbot
+
 Welcome to TitanicChat
 
 setup:
 
-Open your terminal and enter 1. "pip install groq" 2. "pip install flask" if you do not have pip install then first watch https://www.youtube.com/watch?v=nj8gVMH6yR8
+1. download and install Python
 
-then after all of that is installed open your terminal and run python Replace-with-the-path-of-startup.py-in-TitanicChat-folder
+2. after you install python look for code on this site page then click it and click download zip
 
-then have fun and run
+3. after the zip file downloads find it in your downloads folder and extract it all
+
+4. after it extracts click the app.py file then TitanicChat will open in your browser then have fun and use it :)
+
+don't forgot to follow me on Scratch (https://scratch.mit.edu/users/Gamma7113131/)
