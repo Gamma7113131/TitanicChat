@@ -29,7 +29,7 @@ install_requirements()
 app = Flask(__name__)
 
 # Initialize Groq client with your API key
-client = Groq(api_key="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")  # Replace with your actual API key
+client = Groq(api_key="GROQ-API-KEY-HERE")  # Replace with your actual API key
 
 # Function to get a response from Groq API
 def get_groq_response(user_input):
