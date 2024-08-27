@@ -15,6 +15,10 @@ setup:
 
 3. after the zip file downloads find it in your downloads folder and extract it all
 
-4. after it extracts click the app.py file then TitanicChat will open in your browser then have fun and use it :)
+4. then watch this video and do it https://www.youtube.com/watch?v=IMPYpUehJKE&t 
+
+5. after the zip file extracts open python idle and open the app.py (app) file with it then swap "GROQ-API-KEY-HERE" with your Groq APi key
+
+6. then save and close it then double click the app.py (app) file and wait 2+ minutes then have fun and use Good Luck :D
 
 don't forgot to follow me on Scratch (https://scratch.mit.edu/users/Gamma7113131/)
